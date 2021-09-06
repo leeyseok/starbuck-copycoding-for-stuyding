@@ -264,13 +264,17 @@ header .badges {
   right: 12px;
 }
 header .badges .badge{
-  
+  width: 130px;
   border-radius: 10px;
   overflow: hidden;
   margin-bottom: 12px;
   box-shadow: 4px 4px 8px rgba(0,0,0, .6);
   cursor: pointer;
   
+}
+header .badges .badge.badge2 {
+  width: 130px;
+  height: 86px;
 }
 
 /* VISUAL */
