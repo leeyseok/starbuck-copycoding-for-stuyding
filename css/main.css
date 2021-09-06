@@ -262,14 +262,15 @@ header .badges {
   position: absolute;
   top: 132px;
   right: 12px;
-  
 }
 header .badges .badge{
+  
   border-radius: 10px;
   overflow: hidden;
   margin-bottom: 12px;
-  box-shadow: 4px 4px 8px rgba(0,0,0, .15);
+  box-shadow: 4px 4px 8px rgba(0,0,0, .6);
   cursor: pointer;
+  
 }
 
 /* VISUAL */
